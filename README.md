@@ -1,2 +1,2 @@
 # bikeWala
-A website for a bike information
+A resposive website for a bike information
